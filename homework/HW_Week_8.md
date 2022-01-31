@@ -331,6 +331,15 @@ I created the following images (and many more) in 1974-1976 using a Rand Tablet 
 Laurie Spiegel with the hardware end of GROOVE’s digital-analog hybrid architecture
 [History of Laurie Spiegel’s Music Mouse](https://web.archive.org/web/20030402043243/http://www.sharemation.com/~bravedog/cyberdelia5.htm)
 
+# Ladan
+
+Recreation and Original:
+
+![](../media/Screen_Shot_2022-01-17_at_11.47.45_AM.png)
+![](../media/Screen_Shot_2022-01-17_at_11.50.05_AM.png)
+
 # Mau.
+
+Matilde Perez
 
 ![](../media/RTP_Matilde_Perez.jpg)
