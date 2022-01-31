@@ -1,0 +1,11 @@
+.small-image {
+  width: 50%;
+}
+
+.center {
+  text-align: center;
+}
+
+.book-header .pull-right {
+  display: none;
+}
