@@ -1,6 +1,6 @@
 # Summary
 
-* [About](README.md)
+* [Recreating The Past](README.md)
 * [Students](students.md)
 * Homework
   * [Week 1](homework/HW_Week_1.md)
