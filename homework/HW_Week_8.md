@@ -342,4 +342,6 @@ Recreation and Original:
 
 Matilde Perez
 
-![](../media/RTP_Matilde_Perez.jpg)
+![](../media/BYOA_W8_Matilde_Perez_untitled_1972.png)
+![](../media/BYOA_W8_Matilde_Perez_RTP_untitled_2022.png)
+![](../media/BYOA_W8_Matilde_recreada_en_TD.mp4)
